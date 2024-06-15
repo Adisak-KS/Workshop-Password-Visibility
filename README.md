@@ -36,4 +36,8 @@ ___
 
 ### 💻 ตัวอย่างเว็บไซต์
 
-![index]()
+1. ซ่อนรหัสผ่าน
+![index](https://github.com/Adisak-KS/Workshop-Password-Visibility/blob/main/previews/pre-1.png)
+
+2. แสดงรหัสผ่าน
+![index](https://github.com/Adisak-KS/Workshop-Password-Visibility/blob/main/previews/pre-2.png)
